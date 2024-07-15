@@ -1,5 +1,6 @@
 # Nihal-1320.github.io
 ## Activity Report of Student Induction programme 2024
+| ---- | ----------- | ----------- |
 | Date | Speaker's Name | Speaker's Teaching |
 | ---- | ----------- | ----------- |
 | ---- | ----------- | ----------- |
