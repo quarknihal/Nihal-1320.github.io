@@ -22,3 +22,5 @@
 
 ## *My Excel Certificate*
 ![IMG_20240719_085824](https://github.com/user-attachments/assets/ce8bddf7-3462-4b23-aa2a-e1587c2a28c2)
+
+It was a great experience learning about the basics of Microsoft Excel. First of all, Ms Excel is a spreadsheet software which allows a user to store data in a tabular form. Since, it is widely used is everything these days, learning it was a lot useful as well. 
