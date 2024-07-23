@@ -1,3 +1,4 @@
+![IMG_20240719_085824](https://github.com/user-attachments/assets/ce8bddf7-3462-4b23-aa2a-e1587c2a28c2)
 # Nihal-1320.github.io
 ## Activity Report of Student Induction programme 2024
 
