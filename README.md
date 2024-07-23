@@ -18,6 +18,7 @@
 | Same Day | Department Visit | We also visited the Computer Science and Engineering department where we were given us the information about the clubs associated with the CSE department and also a bit about the curriculum. We were motivated that everything would go right and if we did the right amount of hardwork, we would definitely be successful. Also, the mark distribution of both the semesters. This was all in this visit. 
 | 20 July 2024 | Saturday | Holiday |
 | 21 July 2024 | Sunday | Holiday |
-| 22 July 2024 | Dr. S.B Singh | 
+| 22 July 2024 | Dr. S.B Singh | Dr. S.B Singh taught us a lot by sharing his life experiences with us and his main goal was that students should know themselves properly. So for that, he gave us a series of questions which we had to write down on a paper. His questions included basic information like name, mother's name, father's name, phone number and marks etc. But other questions like our dream, strengths, weaknesses, college preference, branch preference, job preference and some things more. He also taught that marks don't matter but skills do. He also gave us some examples about these things. Because of time shortage, this was all taught by him.
+| Same Day | Dr. Pushpinder Singh | Dr. Pushpinder Singh also taught us a lot of things by his own life experiences. He
 
 ![IMG_20240719_085824](https://github.com/user-attachments/assets/ce8bddf7-3462-4b23-aa2a-e1587c2a28c2)
