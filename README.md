@@ -21,7 +21,7 @@
 | Same Day | **Causmic Club** | In this lecture, we were given information about the Causmic Club, their achievements, and all the activities they do. Interested students were asked to join this club.
 | 23 July 2024 | **Prof. Rishi Kapoor** | Because I was about 10 minutes late, he didn't let me enter his class. Some more students were also said to remain outside only. It definitely was a bad experience and I find this teacher a bit rude.
 | Same Day | **Prof. Manjot Kaur** | Prof. Manjot Kaur was a really really good teacher. She also taught us Human values. The concepts which I couldn't understand in the previous lectures are now clear. Basically, ma'am just reviewed the 3 chapters which were taught before. Some students may have found it boring but for me it definitely was perfect.
-| 24 July 2024 | **Mr. Gauravdeep Singh** | Mr. Gauravdeep Singh taught us that one can only be successful in life is he faces failure. He give his own example for this. He told that he himself failed his 11th standard but still became an entrepreneur and started his own association called Initiators of Changes. 
+| 24 July 2024 | **Mr. Gauravdeep Singh** | Mr. Gauravdeep Singh taught us that one can only be successful in life is he faces failure. He give his own example for this. He told that he himself failed his 11th standard but still became an entrepreneur and started his own association called Initiators of Changes. He told that a life without failures is just no fun. He taught that one need to explore oneself to find that which skill is meant for him. 
 
 ## *My Excel Certificate*
 ![IMG_20240719_085824](https://github.com/user-attachments/assets/ce8bddf7-3462-4b23-aa2a-e1587c2a28c2)
