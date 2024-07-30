@@ -26,7 +26,7 @@
 | 25 July 2024 | Prof. Rajbir Kaur | Prof. Rajbir Kaur taught us about the basics and some intermediate intergration problems. They taught us concepts like simple integration, partial integrals and intergration by parts. The way of teaching was simple and easily understandable.
 | Same day | Prof. Mandeep Kaur | Prof. Mandeep kaur took this class and taught us the basics of chemistry. Ma'am reviewed topics from previous class which included electrochemistry, organic and inorganic chemistry, thermodynamics, and some other basic concepts. 
 | Same day | Math's test | A math's test was taken which was a five question test. This test included questions from differentiation, integration and differential equations.
-| 26 July 2024 | Dr. Kanwalpreet Bhatt |
+| 26 July 2024 | Dr. Kanwalpreet Bhatt | Dr. Kanwalpreet Bhatt told us about the benifits of 
 | Same day | Cultural events |
 
 ## *My Excel Certificate*
