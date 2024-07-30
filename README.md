@@ -23,6 +23,11 @@
 | Same Day | **Prof. Manjot Kaur** | Prof. Manjot Kaur was a really really good teacher. She also taught us Human values. The concepts which I couldn't understand in the previous lectures are now clear. Basically, ma'am just reviewed the 3 chapters which were taught before. Some students may have found it boring but for me it definitely was perfect.
 | 24 July 2024 | **Mr. Gauravdeep Singh** | Mr. Gauravdeep Singh taught us that one can only be successful in life is he faces failure. He give his own example for this. He told that he himself failed his 11th standard but still became an entrepreneur and started his own association called Initiators of Changes. He told that a life without failures is just no fun. He taught that one need to explore oneself to find that which skill is meant for him. He taught that if one would waste time on the skill that is not meant for him, it would be just a waste of time. He taught that with mere hardwork and discipline, one can easily achieve what he wants. He encouraging speech and powerful words awakened my soul from tip to toe.
 | Same Day | **Er. Lakhveer Singh** | Er. Lakhveer Singh gave us information about a learning website named Shayam. 
+| 25 July 2024 | Prof. Rajbir Kaur | Maths
+| Same day | Prof. Mandeep Kaur | Chem
+| Same day | Math's test | 
+| 26 July 2024 | Dr. Kanwalpreet Bhatt |
+| Same day | Cultural events |
 
 ## *My Excel Certificate*
 ![IMG_20240719_085824](https://github.com/user-attachments/assets/ce8bddf7-3462-4b23-aa2a-e1587c2a28c2)
