@@ -8,4 +8,4 @@
 | 13:30 | —                        | DE L (G18)            | DS L (G14)          | DS L (G16)           | App. Maths L (S218)   |
 | 14:30 | CA T (OS LAB)            | DS Lab P (PL)         | DE Lab P (HWD Lab)  | —                    | OOP Lab P (SL-IV)     |
 | 15:30 | MPD MC (PL LAB)          | DS Lab P (PL)         | DE Lab P (HWD Lab)  | CA L (G16)           | OOP Lab P (SL-IV)     |
-| 16:30 | CA L (G17)               | OOP L (G16)           | —                   | —                    | —                     |
+| 16:30 | CA L (G14)               | OOP L (G16)           | —                   | —                    | —                     |
