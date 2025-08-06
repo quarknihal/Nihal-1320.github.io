@@ -2,7 +2,7 @@
 |-------|--------------------------|-----------------------|---------------------|----------------------|-----------------------|
 | 08:30 | OOP Lab (SL-II)          | Ind. Cons. (G14)      | —                   | —                    | DE L (S214)           |
 | 09:30 | OOP Lab (SL-II)          | DS L (S218)           | App. Maths L (G15)  | OOP L (S214)         | Ind. Cons. L (G18)    |
-| 10:30 | App. Maths L (G16)       | —                     | CA L (G16)          | STRW Lab P (R)       | DS Lab P (SL-I)       |
+| 10:30 | App. Maths L (G16)       | —                     | CA L (G14)          | STRW Lab P (R)       | DS Lab P (SL-I)       |
 | 11:30 | DE L (S214)              |  DS T (S218)          | App. Maths T (G15)  | STRW Lab P (R)       | DS Lab P (SL-I)       |
 | 12:30 | —                        | —                     | —                   | —                    | —                     |
 | 13:30 | —                        | DE L (G18)            | DS L (G14)          | DS L (G16)           | App. Maths L (S218)   |
